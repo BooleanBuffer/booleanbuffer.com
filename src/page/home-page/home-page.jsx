@@ -23,7 +23,7 @@ function HomePage() {
         },
         {
             id: 'email',
-            link: 'mailto:nitin@booleanbuffer.com'
+            link: 'mailto:hello@booleanbuffer.com'
         }
     ]
   return (
